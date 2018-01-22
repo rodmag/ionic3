@@ -1,0 +1,71 @@
+gcs.api.baseUri=https://api-preprod.globalcollect.com/v1
+gcs.api.authorizationType=V1HMAC
+gcs.api.connectTimeout=5000
+gcs.api.socketTimeout=20000
+gcs.api.maxConnections=100
+
+//Sandbox - https://api-sandbox.globalcollect.com/v1
+//Pre-Production - https://api-preprod.globalcollect.com/v1
+//Production - https://api.globalcollect.com/v1
+
+//Sandbox
+	//CID - 1150
+	//apiKeyId - 8ceb1642f494ef44
+	//secretApiKey - zH4t4pfpg0XORBWvUQ6IlKpQbX3P1NOsfcuQbQOp8OM=
+	
+	//CID - 1923
+	//apiKeyId - fc0845eb260f001a
+	//secretApiKey - KSmjby68jwBk2xxe4rbePACejeXUozXkGL8Ij6vElSY=
+
+//Pre-Production
+	//apiKeyId - e92c17f6e7d02832
+	//secretApiKey - Z8eHDGm5vvg0lXgT+S3mhRZN2w6H7JLfRtCYAVPRBfE=
+	//CID - 35 - 9896 - 9921 - 9930 - 9937 - 9938 - 9949 - 9963 - 
+	      //9967 - 9974 - 9975 - 9978 - 9991 
+	      
+	//apiKey: 3942ded641cfa571
+    //secretKey: BmjQLlgOVqum3+4HgTGfRn5ztttcubB+vTYzwiNeYY0=
+    //8977
+    
+    //apiKey: 33f874adbe728df6
+    //secretKey: +cnUTARH3IQhtKn+Wnh24QN/2Iwy6IAP5+NU9JYV01Q=
+    //9993
+    
+    //apiKey: 7e2caad458303dc3
+    //secretKey: mWLoVlgp5FE+dnAfuy75xn5iKWZdCgRhodlkPBpVjK0=
+    //9308
+      
+    //apiKey: e932e7a094fe9a3d
+    //secretKey: yaEk7vQiqPhCbo4UMvAMgr3gHLrpBUUFsP5Vpywy23E=
+    //9340  
+    
+    //apiKey: d5d30699714460aa
+    //secretKey: PfBWMr1QN4KkaFXPAFU9bCFkXS1STh8XSbJEw+vHzjw=
+    //2480 
+    
+    //apiKey: e73b3b212b0771ef
+    //au: YfB1N0o4yqCL+KsdLE1vDsLT63i3GVgnxo7a8n3tMNY=
+    //9896 
+    
+    //apiKey: bf1c0f7bc9f6791d
+    //au: 60lowbr9rIPL8luYahNFPxOgtxaGIoh5KKIeIg0xAxA=
+    //3611 
+    
+    //ApiKeyID: 36759e0681ff9dfc
+    //SecretApiKey: Um/lVBHFoYDQsUhSIeYNxaPMDJ/b0vD3YfPzUENYXPc=
+    //2300
+    
+	      
+//Prod
+	//apikey - ab35e20048b35f27
+	//secretApikey - HSe58Ya1j0RgtXgMUx9Yci3ON191gPvj3bhnPBe7WB8=
+	//CID - 9993
+	
+	//apikey - 59d11b08db5114cb
+	//secretApikey - IkeMySsYUQc0H7OsgB9Cf6qPw1TqI7FhmeFxgVJM9u8=
+	//CID - 453
+	
+	//apikey - 7f05908ec2ad02e1
+	//secretApikey - EfrZvRauy4O0SDPTdc7aGQag0XgLppuk22MxNd79ExA=
+	//CID - 8977
+	
