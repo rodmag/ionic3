@@ -74,3 +74,4 @@ gcs.api.maxConnections=100
 	//CID - 8977
 	
 4012000077777777 123 CAD CA 1 
+https://epayments.developer-ingenico.com/documentation/api/
