@@ -16,6 +16,10 @@ gcs.api.maxConnections=100
 	//CID - 1923
 	//apiKeyId - fc0845eb260f001a
 	//secretApiKey - KSmjby68jwBk2xxe4rbePACejeXUozXkGL8Ij6vElSY=
+  
+  //apikey - 761c0390dde40b39
+	//secretApikey - UtQ4OWTPq/t+zwVWMGh/CWvpkGpqsbHXZYyBEiGdoEo=
+	//CID - 1482
 
 //Pre-Production
 	//apiKeyId - e92c17f6e7d02832
